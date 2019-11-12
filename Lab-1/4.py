@@ -1,6 +1,5 @@
-# we use the function of dictionary
 
-students = {'1MS17IS020':'Ahana','1MS17IS021':'Zain'}
+students = {'1MS17IS020':'Amaana','1MS17IS021':'alfa'}
 list = ["value1","value2","value3"]
 
 j = 0
