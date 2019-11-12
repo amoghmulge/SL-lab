@@ -1,7 +1,3 @@
-#  !/usr/bin/python
-
-# In this program we are going to display the name, age and height of a person
-# Concepts discussed related to the program are given in the comments
 
 
 print("*** Demo : Python does not need data type declaration ***")
