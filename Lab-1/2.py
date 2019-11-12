@@ -1,12 +1,6 @@
-#!/usr/bin/python
-# In this program we use the different ways of ectracting a substring from a string
-# We also deal with the string functions like split, replace and we performed concatenation using '+' operator
-# At the end we use "type()" to find the type of data we are working with
 
 
-print("Python has fine data types: Number, String, List, Tuple, Dictionary")
-print("\n *** Demo: String Manipulations")
-mystr = "Hungry Kya!"
+mystr = "hows life!"
 
 print(mystr)
 print(mystr[0])
