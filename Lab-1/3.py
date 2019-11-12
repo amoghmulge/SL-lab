@@ -1,4 +1,3 @@
-# Here we create a dictionary and then print the keys of the dictionary along with its values
 
 mydict = {
     "name":"Archie",
